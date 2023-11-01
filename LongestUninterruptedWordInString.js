@@ -1,3 +1,5 @@
+//Get the longest uninterrrupted word in a string
+
 const LNRCS = (str) => {
   console.clear();
   const charArray = str.split("");
